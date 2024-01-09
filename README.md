@@ -1,6 +1,6 @@
 To setup the project, Firstly clone the project
 ```shell
-git clone https://github.com/ishan-18/SB_Assignment
+git clone url
 ```
 
 Then cd into that folder
